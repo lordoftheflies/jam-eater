@@ -1,2 +1,3 @@
 *.sh
-lib/*.jar
+lib/*
+examples/*
